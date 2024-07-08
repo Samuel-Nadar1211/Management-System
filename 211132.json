@@ -1,0 +1,124 @@
+{
+ "Roll no" : 211132,
+ "Full Name" : "Samuel Nadar",
+ "Father's Name" : "George",
+ "Mother's Name" : "Rexlin",
+ "Contact Number" : "9920688750",
+ "Address" : "Mumbai",
+ "Academics" : [
+	{
+	 "Academic Year" : "2021-2022",
+	 "Class Name" : "1st Year CSE",
+	 "Tests" : [
+		{
+		 "Test Name" : "CT-1",
+		 "Subjects" : [
+			{
+			 "Subject Name" : "English for Communication",
+			 "Mark" : 17,
+			 "Maximum Mark" : 20
+			},
+			{
+			 "Subject Name" : "Mathematics-I",
+			 "Mark" : 18,
+			 "Maximum Mark" : 20
+			},
+			{
+			 "Subject Name" : "Physics",
+			 "Mark" : 19.5,
+			 "Maximum Mark" : 20
+			},
+			{
+			 "Subject Name" : "BME",
+			 "Mark" : 17,
+			 "Maximum Mark" : 20
+			},
+			{
+			 "Subject Name" : "Intro to CP",
+			 "Mark" : 17,
+			 "Maximum Mark" : 20
+			}
+		 ],
+		 "Total Mark" : 88.5,
+		 "Total Maximum Mark" : 100,
+		 "Percentage" : 88.5,
+		 "Result" : "Pass - Distinction"
+		},
+		{
+		 "Test Name" : "End Sem",
+		 "Subjects" : [
+			{
+			 "Subject Name" : "Mathematics-II",
+			 "Mark" : 48,
+			 "Maximum Mark" : 50
+			},
+			{
+			 "Subject Name" : "Data Structures",
+			 "Mark" : 47,
+			 "Maximum Mark" : 50
+			},
+			{
+			 "Subject Name" : "Digital System Design",
+			 "Mark" : 32,
+			 "Maximum Mark" : 50
+			},
+			{
+			 "Subject Name" : "Intro to Python Prog",
+			 "Mark" : 39,
+			 "Maximum Mark" : 50
+			},
+			{
+			 "Subject Name" : "Engineering Graphics",
+			 "Mark" : 46,
+			 "Maximum Mark" : 50
+			}
+		 ],
+		 "Total Mark" : 212,
+		 "Total Maximum Mark" : 250,
+		 "Percentage" : 84.8,
+		 "Result" : "Pass - Distinction"
+		}
+	 ]
+	},
+	{
+	 "Academic Year" : "2022-2023",
+	 "Class Name" : "2nd Year CSE",
+	 "Tests" : [
+		{
+		 "Test Name" : "CT-1",
+		 "Subjects" : [
+			{
+			 "Subject Name" : "Discrete Structures",
+			 "Mark" : 19,
+			 "Maximum Mark" : 20
+			},
+			{
+			 "Subject Name" : "DAA",
+			 "Mark" : 18,
+			 "Maximum Mark" : 20
+			},
+			{
+			 "Subject Name" : "Programming Paradigms",
+			 "Mark" : 18.25,
+			 "Maximum Mark" : 20
+			},
+			{
+			 "Subject Name" : "COA",
+			 "Mark" : 13.5,
+			 "Maximum Mark" : 20
+			},
+			{
+			 "Subject Name" : "OOPs",
+			 "Mark" : 20,
+			 "Maximum Mark" : 20
+			}
+		 ],
+		 "Total Mark" : 88.75,
+		 "Total Maximum Mark" : 100,
+		 "Percentage" : 88.75,
+		 "Result" : "Pass - Distinction"
+		}
+	 ]
+	}
+ ]
+}
